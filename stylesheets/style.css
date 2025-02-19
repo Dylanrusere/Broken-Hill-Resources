@@ -1548,6 +1548,7 @@ header .main_nav li i{
     position: relative;
     display: inline-block;
     margin-left: 2%;
+    color: #dfdbdb;
 }
 
 .image-overlay {
